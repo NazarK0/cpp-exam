@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "editor.tabSize": 2,
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
+}
